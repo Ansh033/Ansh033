@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ansh033
+- 👀 I’m interested in understanding data and opining insights
+- 🌱 I’m currently learning Data Science Programe
+- 💞️ I’m looking to learn GitHub
+- 📫 You can reach me out through my mail which is sitanshupathak01@gmail.com
